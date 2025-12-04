@@ -6,7 +6,7 @@ A comprehensive guide to prepare for React Native developer interviews, covering
 
 ## 📚 Repository Structure
 
-### **01. Core React**
+### **[01. Core React](./01.%20Core%20React)**
 
 Foundational React concepts essential for React Native development:
 
@@ -18,7 +18,7 @@ Foundational React concepts essential for React Native development:
 - List Rendering (FlatList, SectionList)
 - Context API
 
-### **02. React Native Fundamentals**
+### **[02. React Native Fundamentals](./02.%20React%20Native%20Fundamentals)**
 
 Core React Native components and concepts:
 
@@ -30,7 +30,7 @@ Core React Native components and concepts:
 - Platform-specific code: Platform.OS, .ios.js/.android.js
 - Permissions (location, camera, etc.)
 
-### **03. Expo & Native Modules**
+### **[03. Expo & Native Modules](./03.%20Expo%20%26%20Native%20Modules)**
 
 Understanding the Expo ecosystem and native module integration:
 
@@ -39,7 +39,7 @@ Understanding the Expo ecosystem and native module integration:
 - Limitations of Expo vs Bare workflow
 - How to eject to Bare workflow
 
-### **04. State Management**
+### **[04. State Management](./04.%20State%20Management)**
 
 Modern state management solutions and patterns:
 
@@ -49,7 +49,7 @@ Modern state management solutions and patterns:
 - Zustand or Jotai (newer stacks)
 - Async operations (Redux Thunk, Redux Saga)
 
-### **05. Navigation**
+### **[05. Navigation](./05.%20Navigation)**
 
 Navigation patterns and implementation:
 
@@ -59,7 +59,7 @@ Navigation patterns and implementation:
 - Deep linking
 - Authentication flow (login → protected screens)
 
-### **06. API & Backend Integration**
+### **[06. API & Backend Integration](./06.%20API%20%26%20Backend%20Integration)**
 
 Backend communication and data handling:
 
@@ -71,7 +71,7 @@ Backend communication and data handling:
 - Offline-first apps
 - Caching (AsyncStorage or libraries like react-query)
 
-### **07. Performance Optimization**
+### **[07. Performance Optimization](./07.%20Performance%20Optimization)**
 
 Techniques to optimize React Native app performance:
 
@@ -82,7 +82,7 @@ Techniques to optimize React Native app performance:
 - Memory management
 - Preventing unnecessary re-renders
 
-### **08. Storage & Database**
+### **[08. Storage & Database](./08.%20Storage%20%26%20Database)**
 
 Local data persistence solutions:
 
@@ -92,7 +92,7 @@ Local data persistence solutions:
 - Realm/WatermelonDB
 - Encryption basics
 
-### **09. Authentication**
+### **[09. Authentication](./09.%20Authentication)**
 
 Authentication patterns and implementation:
 
@@ -103,7 +103,7 @@ Authentication patterns and implementation:
 - Firebase Auth integration
 - Social login (Google, Apple, Facebook)
 
-### **10. Testing**
+### **[10. Testing](./10.%20Testing)**
 
 Testing strategies for React Native apps:
 
@@ -112,7 +112,7 @@ Testing strategies for React Native apps:
 - Snapshot testing
 - Detox for E2E testing
 
-### **11. Debugging & Tools**
+### **[11. Debugging & Tools](./11.%20Debugging%20%26%20Tools)**
 
 Debugging techniques and development tools:
 
@@ -121,7 +121,7 @@ Debugging techniques and development tools:
 - Performance profiling tools
 - Handling crashes (Sentry, Bugsnag)
 
-### **12. App Deployment**
+### **[12. App Deployment](./12.%20App%20Deployment)**
 
 Build and release processes:
 
@@ -131,7 +131,7 @@ Build and release processes:
 - Expo EAS configurations and profiles
 - OTA (Over-The-Air) updates with Expo
 
-### **13. Important Concepts**
+### **[13. Important Concepts](./13.%20Important%20Concepts)**
 
 Core architectural concepts:
 
@@ -140,7 +140,7 @@ Core architectural concepts:
 - Threading (JS Thread, Shadow Thread, UI Thread)
 - Fabric architecture (new architecture)
 
-### **14. HR or System Design (for experienced roles)**
+### **[14. HR or System Design (for experienced roles)](<./14.%20HR%20or%20System%20Design%20(for%20experienced%20roles)>)**
 
 Advanced topics for senior developer interviews:
 
